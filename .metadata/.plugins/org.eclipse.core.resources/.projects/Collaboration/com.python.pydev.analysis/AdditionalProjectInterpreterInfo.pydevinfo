@@ -1,0 +1,73 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace-Django\.metadata\.plugins\org.eclipse.core.resources\.projects\Collaboration\com.python.pydev.analysis\v2_indexcache
+SignUp.tests|1588817275422660100|C:\Workspace-Django\Collaboration\SignUp\tests.py
+SignUp.urls|1588872974316127400|C:\Workspace-Django\Collaboration\SignUp\urls.py
+Collaboration.settings|1588873501639366300|C:\Workspace-Django\Collaboration\Collaboration\settings.py
+SignUp.admin|1588817275363603200|C:\Workspace-Django\Collaboration\SignUp\admin.py
+Collaboration.__init__|1588817178001478500|C:\Workspace-Django\Collaboration\Collaboration\__init__.py
+Collaboration.asgi|1588817177940488400|C:\Workspace-Django\Collaboration\Collaboration\asgi.py
+manage|1588817177922525000|C:\Workspace-Django\Collaboration\manage.py
+SignUp.migrations.__init__|1588817275443657900|C:\Workspace-Django\Collaboration\SignUp\migrations\__init__.py
+SignUp.models|1588891152657616600|C:\Workspace-Django\Collaboration\SignUp\models.py
+Collaboration.urls|1588872986616445600|C:\Workspace-Django\Collaboration\Collaboration\urls.py
+SignUp.__init__|1588817275439599000|C:\Workspace-Django\Collaboration\SignUp\__init__.py
+Collaboration.wsgi|1588817177999477700|C:\Workspace-Django\Collaboration\Collaboration\wsgi.py
+SignUp.apps|1588817275378646800|C:\Workspace-Django\Collaboration\SignUp\apps.py
+SignUp.views|1588873554886093900|C:\Workspace-Django\Collaboration\SignUp\views.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+2=Collaboration.settings
+16=SignUp.urls
+7=C:\Workspace-Django\Collaboration\manage.py
+1=C:\Workspace-Django\Collaboration\Collaboration\settings.py
+9=C:\Workspace-Django\Collaboration\SignUp\models.py
+4=Collaboration.asgi
+8=manage
+10=SignUp.models
+18=Collaboration.urls
+19=post
+5=C:\Workspace-Django\Collaboration\Collaboration\wsgi.py
+3=C:\Workspace-Django\Collaboration\Collaboration\asgi.py
+11=C:\Workspace-Django\Collaboration\SignUp\views.py
+20=SignupConfig
+15=C:\Workspace-Django\Collaboration\SignUp\urls.py
+17=C:\Workspace-Django\Collaboration\Collaboration\urls.py
+6=Collaboration.wsgi
+14=SignUp.apps
+12=SignUp.views
+13=C:\Workspace-Django\Collaboration\SignUp\apps.py
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!1^28#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^101#1*19@
+bas|1|BASE_DIR!1^16#1*19@
+dat|1|DATABASES!1^82#1*19@
+deb|1|DEBUG!1^26#1*19@
+ins|1|INSTALLED_APPS!1^41#1*19@
+lan|1|LANGUAGE_CODE!1^107#1*19@
+mai|1|main!7^7#5*66@
+mid|1|MIDDLEWARE!1^51#1*19@
+pos|1|post!9^8#7*81@
+reg|1|registre!11^5#5*98@
+roo|1|ROOT_URLCONF!1^53#1*19@
+sec|1|SECRET_KEY!1^23#1*19@
+sig|1|SignupConfig!13^4#7*113@
+sta|1|STATIC_URL!1^121#1*19@
+tem|1|TEMPLATES!1^69#1*19@
+tim|1|TIME_ZONE!1^109#1*19@
+url|2|urlpatterns!15^7#1*131@urlpatterns!17^22#1*147@
+use|3|USE_TZ!1^115#1*19@USE_I18N!1^111#1*19@USE_L10N!1^113#1*19@
+wsg|1|WSGI_APPLICATION!1^71#1*19@
+-- END TREE
+-- START TREE 2
+5
+__s|1|__str__!19&9^14#9*82@
+bod|1|body!19&9^11#5*83@
+cre|1|created_at!19&9^12#5*83@
+nam|2|name!19&9^9#5*83@name!20&13^5#5*115@
+tit|1|title!19&9^10#5*83@
+-- END TREE

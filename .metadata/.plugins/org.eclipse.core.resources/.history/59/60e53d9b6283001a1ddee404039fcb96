@@ -1,0 +1,5 @@
+a={'1':'omar fala'}
+a.setdefault('2', 'hamza')
+a.setdefault('3','hamza2')
+a.__reversed__()
+print(a)

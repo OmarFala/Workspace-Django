@@ -1,0 +1,7 @@
+from * import prompt
+f,a = int(prompt("entrez a : >>"))
+for i in range(1,5):
+    f*=i
+print("factoriel de ",a," = ",f)
+
+    

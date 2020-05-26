@@ -1,0 +1,6 @@
+f,a = input("entrez a : >>")
+for i in range(a,1):
+    f*=i
+print("factoriel de ",a," = ",f)
+
+    

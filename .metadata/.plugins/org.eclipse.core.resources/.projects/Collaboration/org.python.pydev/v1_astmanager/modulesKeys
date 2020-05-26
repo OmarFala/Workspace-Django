@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+Collaboration.__init__|C:\Workspace-Django\Collaboration\Collaboration\__init__.py
+Collaboration.asgi|C:\Workspace-Django\Collaboration\Collaboration\asgi.py
+Collaboration.settings|C:\Workspace-Django\Collaboration\Collaboration\settings.py
+Collaboration.urls|C:\Workspace-Django\Collaboration\Collaboration\urls.py
+Collaboration.wsgi|C:\Workspace-Django\Collaboration\Collaboration\wsgi.py
+SignUp.__init__|C:\Workspace-Django\Collaboration\SignUp\__init__.py
+SignUp.admin|C:\Workspace-Django\Collaboration\SignUp\admin.py
+SignUp.apps|C:\Workspace-Django\Collaboration\SignUp\apps.py
+SignUp.migrations.__init__|C:\Workspace-Django\Collaboration\SignUp\migrations\__init__.py
+SignUp.models|C:\Workspace-Django\Collaboration\SignUp\models.py
+SignUp.tests|C:\Workspace-Django\Collaboration\SignUp\tests.py
+SignUp.urls|C:\Workspace-Django\Collaboration\SignUp\urls.py
+SignUp.views|C:\Workspace-Django\Collaboration\SignUp\views.py
+manage|C:\Workspace-Django\Collaboration\manage.py

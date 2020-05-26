@@ -1,0 +1,5 @@
+from smtplib import prompt
+a = prompt("entrez a : >>")
+f
+for i in range(1,5):
+    

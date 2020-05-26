@@ -1,0 +1,5 @@
+from smtplib import prompt
+f
+a = prompt("entrez le nombre : >>")
+for i in range(a,1):
+    f*=i

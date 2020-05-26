@@ -1,0 +1,11 @@
+from django.shortcuts import render
+
+# Create your views here.
+from .models import User
+
+def registre(request):
+    utilisateur = User.objects.all()
+    request={
+    "user":utilisateur
+        }
+    return render(request ,'SignUp.html')
