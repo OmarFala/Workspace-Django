@@ -1,9 +1,8 @@
-from rest_framework import routers
-from .api import userViewSet
-from django.urls import path, include
+from django.conf.urls import url
+from user import views
 
-
-router = routers.DefaultRouter()
-router.register('api/user', userViewSet, 'user')
-
-urlpatterns = router.urls
+urlpatterns = [
+    url('api/users', views.user_list),
+    url('api/users/(?P<pk>[0-9]+)', views.user_detail),
+    url('api/users/published$', views.user_list_published)
+]

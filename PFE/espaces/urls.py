@@ -1,10 +1,8 @@
-from rest_framework import routers
-from .api import espaceViewSet, planViewSet
-from django.urls import path, include
+from django.conf.urls import url
+from espaces import views
 
-
-router = routers.DefaultRouter()
-router.register('api/espace', espaceViewSet, 'espace')
-router.register('api/plan', espaceViewSet, 'plan')
-
-urlpatterns = router.urls
+urlpatterns = [
+    url('api/espaces', views.espace_list),
+    url('api/espaces/(?P<pk>[0-9]+)', views.espace_detail),
+    url('api/espaces/published$', views.espace_list_published)
+]
