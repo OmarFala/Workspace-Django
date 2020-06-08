@@ -1,12 +1,12 @@
 # WORKSPACE-DJANGO
 
-## Introduction
+#DjangoRestFramework
+#ReactJs
 
-Boilerplate template to start a project with Django Rest Framework backend with React frontend using TokenAuthentication. SQLite is used for database.
 
 ## How to run
 
-To run server part :
+To run server part (PFE):
 ```
 cd server
 pip install 
@@ -14,7 +14,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-To run the client :
+To run the client (collab_front):
 ```
 cd client
 npm install
